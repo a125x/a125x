@@ -8,4 +8,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A125X)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A125X)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A125X&exclude_repo=https://github.com/A125X/Unity-Uni.git)](https://github.com/anuraghazra/github-readme-stats)
