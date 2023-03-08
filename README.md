@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the Mint Abyss game, system of ruways recognition and my own projects
+- 🔭 I’m currently working on the Mint Abyss game and my own projects
 - 🌱 I’m currently studying machine learning & data science
 - 📫 How to reach me: tg: Name_That_I_Can_Use
 
