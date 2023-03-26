@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on the Mint Abyss game and my own projects
 - 🌱 I’m currently studying machine learning & data science
 - 📫 How to reach me: tg: Name_That_I_Can_Use
+- 🤩 Me on Gitlab: https://gitlab.com/A125X (nothing really interesting there)
+- 🤖 Me on Kaggle: https://www.kaggle.com/alexredna 
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A125X)](https://github.com/anuraghazra/github-readme-stats)
 
