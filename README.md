@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on the Mint Abyss game and my own projects
-- 🌱 I’m currently studying machine learning & data science
+- 🌱 I’m currently studying Machine Learning & Data Science
 - 📫 How to reach me: https://t.me/Name_that_i_can_use
 - 🤩 Me on Gitlab: https://gitlab.com/A125X (nothing really interesting there)
 - 🤖 Me on Kaggle: https://www.kaggle.com/alexredna 
